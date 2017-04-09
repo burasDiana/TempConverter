@@ -1,0 +1,9 @@
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPServer\obj\Debug\TCPServer.pdb
+M:\forgit\TempConverter\TCPServer\bin\Debug\TCPServer.exe.config
+M:\forgit\TempConverter\TCPServer\obj\Debug\TCPServer.exe
+M:\forgit\TempConverter\TCPServer\obj\Debug\TCPServer.pdb

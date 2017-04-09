@@ -1,0 +1,9 @@
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\TCPClient\obj\Debug\TCPClient.pdb
+M:\forgit\TempConverter\TCPClient\bin\Debug\TCPClient.exe.config
+M:\forgit\TempConverter\TCPClient\obj\Debug\TCPClient.exe
+M:\forgit\TempConverter\TCPClient\obj\Debug\TCPClient.pdb

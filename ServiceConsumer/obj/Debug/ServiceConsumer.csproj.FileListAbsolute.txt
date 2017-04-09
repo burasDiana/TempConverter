@@ -1,0 +1,6 @@
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\ServiceConsumer\bin\Debug\ServiceConsumer.exe.config
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\ServiceConsumer\bin\Debug\ServiceConsumer.exe
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\ServiceConsumer\bin\Debug\ServiceConsumer.pdb
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\ServiceConsumer\obj\Debug\ServiceConsumer.csprojResolveAssemblyReference.cache
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\ServiceConsumer\obj\Debug\ServiceConsumer.exe
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 3 rd semester\TempConverter\ServiceConsumer\obj\Debug\ServiceConsumer.pdb
